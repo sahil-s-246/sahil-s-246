@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🌱 I’m currently learning:Machine Learning, Data Science
+- 👯 I’m looking to collaborate on:Python Projects
+- 📫 How to reach me:Email,Linkedin
+- ⚡ Fun fact:The name of the Python programming language comes from an old BBC television comedy sketch series called Monty Python's Flying Circus
 <!--
 **sahil-s-246/sahil-s-246** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
