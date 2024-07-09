@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning:Machine Learning, Data Science
 - 👯 I’m looking to collaborate on:Python Projects
 - 📫 How to reach me:[Email](mailto://sahilsrinivas3@gmail.com),[Linkedin](https://linkedin.com/in/sahilparupudi)
+- 📄 Resume:[sahil-s-246.github.io/autoCV](sahil-s-246.github.io/autoCV)
 - ⚡ Fun fact:The name of the Python programming language comes from an old BBC television comedy sketch series called Monty Python's Flying Circus
 <!--
 **sahil-s-246/sahil-s-246** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
